@@ -12,7 +12,7 @@ class Material extends React.Component {
                 <AppBar position="static" className="toolBar">
                     <Toolbar>
                         <Typography variant="h6" color="inherit">Tournaments</Typography>
-                        <a href="https://github.com/tehSIRius/tournaments" target="blank" className="githubLink">
+                        <a href="https://github.com/Shivansh2287/tournament" target="blank" className="githubLink">
                             <img src="Github.png" width="36" height="36" title="This project is available on Github!" alt="Github link" />
                         </a>
                     </Toolbar>
